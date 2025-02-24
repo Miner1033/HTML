@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+
+<body>
+    <header>
+        <img src="Mypic.jpeg" width="160">
+        <h1>Shah Sadek-E-Akbor Shamim</h1>
+        <p>Email:<a href="shahshamim855@gmail.com">shahshamim855@gmail.com</a></p>
+        <p> Phone:01842835101</p>
+        <p>LinkedIn:<a
+                href="https://www.linkedin.com/in/shah-sadek-e-akbor-shamim-12aa90305/">//www.linkedin.com/in/shah-sadek-e-akbor-shamim-12aa90305/</a>
+        </p>
+        <p>GitHub:<a href="//github.com/shamim-006">//github.com/shamim-006</a></p>
+    </header>
+    <hr>
+    <section>
+        <h2>Education:</h2>
+        <p> B.Sc in Computer Science and Engineering(Studying seven semester) - <b>Leading University</b></p>
+        <p>Graduation Year: 2025</p>
+        <p><strong>Higher Secondary Certificate (HSC)</strong>- GPA: 5.00</p>
+        <p><strong>Secondary School Certificate (SSC)</strong> - GPA: 5.00</p>
+    </section>
+
+    <hr>
+    <section>
+        <h2>Skills:</h2>
+        <ul>
+            <li>Android Development(java,Flutter)</li>
+            <li>C++,Java(OOP),MySQL,Python,DSA</li>
+            <li>Problem Slover(conforces,codechef,hackerrank)</li>
+            <li>Power BI</li>
+            <li>Machine Learning(Learning)</li>
+            <li>Web Development(Learing Full-Stack)</li>
+
+        </ul>
+    </section>
+    <hr>
+    <section>
+        <h2>Experiences:</h2>
+        <p><b>IEEE Computer Society LU SB Chapter</b></p>
+        <p>Logistic Executive - 2024</p>
+        <p>Managed logistics and event coordination for technical and non-technical activities.</p>
+    </section>
+    <hr>
+    <section>
+        <h2>Projects:</h2>
+        <h3>Project 1:</h3>
+        <p><strong>MyTraveL</strong> A travel app with booking spot, reservation and magement features by using
+            Java,SQLite</p>
+        <h3>Project 2:</h3>
+        <p><strong>MyTraveL2.0</strong> A travel app with booking spot,hotel reservation,Cancel reservation,Hiring a
+            Vehicle and magement features by using Java,Firebase,cloudinary</p>
+        <h3>Project 3:</h3>
+        <p><strong>Bangladesh 2.0</strong> A revolutionary documentary app where will contains whose participate
+            julyaugust movement 2024 protestor info,guest user,support ,contact with them,see the martyrs list injured
+            list,see image or viedo of the movement , using Flutter with Firebase and cloudinary</p>
+    </section>
+    <hr>
+    <section>
+        <h2>Certifications:</h2>
+        <ul>
+            <li>Power BI Basic to Advanced Workshop</li>
+            <li>IEEE Volunteer Certificate</li>
+        </ul>
+    </section>
+</body>
+
+</html>
